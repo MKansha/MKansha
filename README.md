@@ -1,8 +1,8 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Kansha M"
-Who_i_am = ['🎓 Final Year Student at K.L.N. College of Engineering 🌐 Pursuing a degree in Computer Science🌟']
+ Kansha M
+ ['🎓 Final Year Student at K.L.N. College of Engineering 🌐 Pursuing a degree in Computer Science🌟']
 Country = "🇮🇳"
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=5EC15A&background=47ABFF00&multiline=true&width=600&height=70&lines=A+passionate+developer+who+likes+to+build+stuffs.)](https://git.io/typing-svg)

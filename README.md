@@ -1,22 +1,37 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&duration=4000&pause=100&center=true&random=false&width=1000&lines=%22Coding+is+like+cooking%2C+sometimes+;you+follow+a+recipe%2C+and+sometimes+;you+just+throw+in+a+pinch+of+your+own+spice.%22+-+Unknown)](https://git.io/typing-svg)
 
-### About 🙋🏻‍♂️
+
+<div align="center">
+    <img width="1000" height="450" src="kansha.png" alt="">
+</div>
+
+###
+<h1 align="center">Hi 👋, I'm Kansha</h1>
+<h3 align="center">A Passionate Developer who likes to build stuffs</h3>
+
+
+ <!--### About 🙋🏻‍♂️
 ```python
  Kansha M
 🎓 Final Year Student at K.L.N. College of Engineering 🌐 Pursuing a degree in Computer Science🌟
 
-```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=5EC15A&background=47ABFF00&multiline=true&width=600&height=70&lines=A+passionate+developer+who+likes+to+build+stuffs.)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MKansha&label=Profile%20views&color=0e75b6&style=flat" alt="mkansha" /> </p>
+``` -->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MKansha&label=Profile%20views&color=0e75b6&style=flat" alt="mkansha" /> </p> 
+
+
 
 ###
--🌐 As a web developer, my passion lies in crafting impactful websites. Currently pursuing my education at K.L.N. College of Engineering, I specialize in HTML, CSS, and JavaScript for dynamic and visually appealing web solutions.
+-🌐 As a web developer, my passion lies in crafting impactful websites. 
 
 -Engaging in software development, I bring expertise in UI/UX design to ensure a user-centric approach. 🚀
 
 - Contact Me 📫.[Instagram](https://www.instagram.com/kansha_____/)
 
 ###
-
+<img align="right" alt="Coding" width="250" height="150" src="https://media.tenor.com/m1Mr-khUDVgAAAAM/anime-hacking.gif">
 <div align="left">
   <a href="https://www.linkedin.com/in/m-kansha-aaa74626b " target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />

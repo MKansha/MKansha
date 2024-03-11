@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img width="1000" height="450" src="kansha.png" alt="">
+    <img width="1000" height="400" src="kansha.png" alt="">
 </div>
 
 ###

@@ -21,7 +21,7 @@
  <img align="right"  width="370" height="230" src="https://media.tenor.com/m1Mr-khUDVgAAAAM/anime-hacking.gif">
 
 - 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Spring Boot
 - 🤔 I’m seeking oppourtunities in TECH
 - 💬 Ask me about Tech
 - 📫 How to reach me :

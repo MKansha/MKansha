@@ -20,8 +20,8 @@
 
  <img align="right"  width="370" height="230" src="https://media.tenor.com/m1Mr-khUDVgAAAAM/anime-hacking.gif">
 
-- 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently learning React
+- 🔭 Here's my [portfolio](https://portfolio-sable-six-90.vercel.app/)                                                 
+- 🌱 I’m currently learning django
 - 🤔 I’m seeking oppourtunities in TECH
 - 💬 Ask me about Tech
 - 📫 How to reach me :
@@ -45,15 +45,14 @@
 ###
 
 <div align="left">
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop logo" />
@@ -61,17 +60,22 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
     </a>
-<!--     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" />
-    </a> -->
-    <img align="left" height="50" width="50" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-    <img align="left" height="50" width="50" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-    
+    <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code">
+    <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub">
+    <!-- Additions -->
+    <img height="50" width="50" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" alt="React.js">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+   <img height="50" width="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django">
+
 </div>
 
 
+
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel logo"/>
+
 
 
 ###

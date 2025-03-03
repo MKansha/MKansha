@@ -21,7 +21,7 @@
  <img align="right"  width="370" height="230" src="https://media.tenor.com/m1Mr-khUDVgAAAAM/anime-hacking.gif">
 
 - 🔭 Here's my [portfolio](https://portfolio-sable-six-90.vercel.app/)                                                 
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Laravel
 - 🤔 I’m seeking oppourtunities in TECH
 - 💬 Ask me about Tech
 - 📫 How to reach me :
